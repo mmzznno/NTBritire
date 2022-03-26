@@ -7,7 +7,7 @@ from webdriver_manager.chrome  import ChromeDriverManager
 import seaborn as sns
 import matplotlib.pyplot as plt
 from scipy import stats
-sns.set()
+#sns.set()
  
 def read():
     
